@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=1_IYL9ZMR_Y
 
 ### Bug to fix : The <input> field should occupy all available width
 
+# branch banner - create a banner using the url of the amazon banner - in Home.js
+
+==================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
