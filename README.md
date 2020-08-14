@@ -2,9 +2,15 @@ Tutorial from Clever Programmer
 🔴 How to Make an AMAZON Clone with REACT JS for Beginners (in 4 hours)
 https://www.youtube.com/watch?v=1_IYL9ZMR_Y
 
-# branch navbar - create the navbar
+## branch navbar - create the navbar
 
 ### Bug to fix : The <input> field should occupy all available width
+
+## branch banner - create a banner
+
+using the url of the amazon banner - in Home.js
+
+==================================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
