@@ -6,9 +6,17 @@ https://www.youtube.com/watch?v=1_IYL9ZMR_Y
 
 ### Bug to fix : The <input> field should occupy all available width
 
+<<<<<<< HEAD
+
 ## branch banner - create a banner
 
-using the url of the amazon banner - in Home.js
+# using the url of the amazon banner - in Home.js
+
+# branch banner - create a banner using the url of the amazon banner - in Home.js
+
+> > > > > > > banner
+
+# branch product-component - A component for displaying a product
 
 ==================================
 
