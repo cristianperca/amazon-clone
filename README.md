@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=1_IYL9ZMR_Y
 
 # branch product-component - A component for displaying a product
 
+# branch context-api - Add context API to manage the basket content
+
 ==================================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
