@@ -32,7 +32,7 @@ function Checkout() {
             {/**Lis tof all the Checkout Products */}
             {basket.map((item) => (
               <CheckoutProduct
-                key={item.id}
+                key={item.id + Math.random()}
                 id={item.id}
                 title={item.title}
                 image={item.image}

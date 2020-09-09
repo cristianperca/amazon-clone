@@ -29,8 +29,8 @@ function Product({ id, title, image, price, rating }) {
         <div className="product__rating">
           {Array(rating)
             .fill()
-            .map((_) => (
-              <p>
+            .map((index) => (
+              <p key={Math.random()}>
                 <span role="img" aria-label="start">
                   ⭐
                 </span>
